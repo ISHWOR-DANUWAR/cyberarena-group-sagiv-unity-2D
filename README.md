@@ -47,9 +47,9 @@ The **read-clue-then-shoot** mechanic ensures children engage with real cybersec
 
 | Name | Role |
 |------|------|
-| Me | Project Lead & Developer |
+| Ishwar | Project Lead & Developer |
 | Sumit | Game Logic Developer |
-| Fatima | Group Leader & Documentation |
+| Fatima | Researcher & Documentation |
 | Jigyasha | Designer & Content Writer |
 
 ---
