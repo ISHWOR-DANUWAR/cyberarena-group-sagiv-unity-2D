@@ -1,7 +1,7 @@
  🚀 Cyber Arena: Space Combat
 
 > **Cyber Guardian Pilot: Defending the Internet Galaxy**  
-> A cybersecurity education game for children aged 7–14, built in Unity 2D with WebGL export.
+> A cybersecurity education game for children aged 7–18, built in Unity 2D with WebGL export.
 
 ---
 
@@ -47,8 +47,8 @@ The **read-clue-then-shoot** mechanic ensures children engage with real cybersec
 
 | Name | Role |
 |------|------|
-| Ishwar | Project Lead & Developer |
-| Sumit | Game Logic Developer |
+| Ishwar | Project Lead & Game Logic Developer |
+| Sumit | QA and SSP Tester |
 | Fatima | Researcher & Documentation |
 | Jigyasha | Designer & Content Writer |
 
